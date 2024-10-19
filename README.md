@@ -72,7 +72,8 @@
   
 </p>
 <br><br><br><br><br><br><br><br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jatin31195&theme=onedark)](https://github.com/jatin31195/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=jatin31195&theme=onedark)](https://github.com/jatin31195/github-profile-trophy)
+
 
 <br><br><br><br><br><br><br><br><br><br><br>
 <hr>
