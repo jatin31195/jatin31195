@@ -50,7 +50,6 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -61,21 +60,20 @@
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=jatin31195&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br>
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin31195&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-  <br>
-  
+  <br><br><br><br><br><br><br><br><br>
 </p>
-<br><br><br><br><br><br><br><br><br>
-![](https://github-profile-trophy.vercel.app/?username=jatin31195&theme=onedark)](https://github.com/jatin31195/github-profile-trophy)
 
-
-<br><br><br><br><br><br><br><br><br><br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin31195&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=jatin31195&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+<br>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
