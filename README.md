@@ -75,26 +75,3 @@
 ![](https://github-trophies.vercel.app/?username=jatin31195&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 <br>
 <hr>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
- <a align="left" href="https://github.com/Rythmiq1/Rythmiq" title="Rythmiq">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rythmiq1&repo=Rythmiq&theme=react&border_color=61dafb&border_radius=10">
- </a>
-  <a align="right" href="https://github.com/jatin31195/ChatShat" title="ChatShat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jatin31195&repo=ChatShat&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/jatin31195/minigame" title="Mini Game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jatin31195&repo=minigame&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jatin31195/bootproject1" title="Boot Project 1"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jatin31195&repo=bootproject1&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/jatin31195/bootproject2" title="Boot Project 2"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jatin31195&repo=bootproject2&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jatin31195/Tanabata-Typing" title="Tanabata Typing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jatin31195&repo=Tanabata-Typing&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/jatin31195?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
